@@ -18,6 +18,12 @@ These skills help you think through problems before writing code.
   npx skills@latest add Viniciusmq25/skills/grill-me
   ```
 
+- **design-a-interface** — Generate multiple radically different interface designs for a module, then compare trade-offs before implementation.
+
+  ```
+  npx skills@latest add Viniciusmq25/skills/design-a-interface
+  ```
+
 ## Development
 
 These skills help you write, refactor, and fix code.
